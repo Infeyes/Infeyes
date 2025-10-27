@@ -24,7 +24,7 @@
 - 📄 Know about my experiences [infeyes.com](infeyes.com)
 
 - ⚡ Fun fact **I am not thinking**
-
+<!---
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -67,3 +67,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=infeyes&show_icons=true&locale=en" alt="infeyes" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=infeyes&" alt="infeyes" /></p>
+-->
